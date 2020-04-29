@@ -1,0 +1,10 @@
+UNIT TESTING
+Q1.Unit Testing is to test the smallest units or software components in a program.
+Q2.Unit Testing is conducted by developers
+Q3.White Box Testing
+
+
+INTEGRATION TESTING
+Q1.Integration testing is the combined execution of two or more classes, packages, components, or subsystems. 
+Q2.Integration testing is conduct by programmer or programming teams.
+Q3.Black Box Testing
