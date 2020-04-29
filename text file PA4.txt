@@ -8,3 +8,14 @@ INTEGRATION TESTING
 Q1.Integration testing is the combined execution of two or more classes, packages, components, or subsystems. 
 Q2.Integration testing is conduct by programmer or programming teams.
 Q3.Black Box Testing
+
+Updated by 04_JeradChen
+
+1) It is the execution of the software in its final configuration, including integration with other software and hardware systems.
+2) Testers.
+3) Whitebox.
+
+4) Evaluate and validate that the system's functionality meets the customer's requirements, standards and business needs before the final delivery.
+ 5) Customers & end-users.
+6) Blackbox.
+
