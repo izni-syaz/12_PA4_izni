@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\player.cs" />
+    <Compile Include="Assets\Script\scene.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/izni syaz/Documents/GitHub/12_PA4_izni/12_izni_PA4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
